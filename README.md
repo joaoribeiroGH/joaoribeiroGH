@@ -1,1 +1,1 @@
-<p><a href="https://streamlabs.com/bukunin0_0/tip>" <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN2ekYzd-Q_0m9_S5gf0Hn62mpLYkl-L9PvQ&s" height="50" width="210" alt="joaoribeiroGH" /></a></p><br><br>
+<p class="CoreText-sc-1txzju1-0 jkurzn">DONATION PAGE </p>
