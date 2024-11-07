@@ -1,19 +1,3 @@
-<h1 align="center">Hi 👋, I'm João Ribeiro</h1>
-<h3 align="center">A student, I like Games, programming and music</h3>
-
-- 🔭 I’m currently working on **Computer and software engeneering at Aveiro's University**
-
-- 🌱 I’m currently learning **Programming**
-
-- 🤝 I’m looking for help with [developing all my skills and my streaming career](https://www.twitch.tv/bukunin0_0)
-
-- 📝 I sometimes am live [https://www.twitch.tv/bukunin0_0](https://www.twitch.tv/bukunin0_0)
-
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **joaomariafribeiro@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left"><h1 align="center">Hi 👋, I'm João Ribeiro</h1>
 <h3 align="center">A student, I like Games, programming and music</h3>
 
